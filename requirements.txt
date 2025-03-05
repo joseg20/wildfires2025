@@ -1,0 +1,8 @@
+gdown
+opencv-python
+numpy
+gdown
+ultralytics
+gpustat
+wandb
+scikit-learn
