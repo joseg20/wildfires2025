@@ -1,0 +1,7 @@
+.venv
+/data
+/jupyter
+/downloads
+/.ipynb_checkpoints
+/.vscode
+.DS_Store
