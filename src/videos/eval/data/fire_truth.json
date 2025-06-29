@@ -1,0 +1,358 @@
+[
+    {
+        "folder": "20160711_FIRE_ml-n-mobo-c",
+        "ignition_time": "2016-07-11 21:42:11"
+    },
+    {
+        "folder": "20160722_FIRE_mw-e-mobo-c",
+        "ignition_time": "2016-07-22 23:42:01"
+    },
+    {
+        "folder": "20170520_FIRE_lp-s-iqeye",
+        "ignition_time": "2017-05-20 20:19:14"
+    },
+    {
+        "folder": "20170625_BBM_bm-n-mobo",
+        "ignition_time": "2017-06-25 20:53:33"
+    },
+    {
+        "folder": "20170708_Whittier_syp-n-mobo-c",
+        "ignition_time": "2017-07-08 22:41:43"
+    },
+    {
+        "folder": "20170722_FIRE_so-s-mobo-c",
+        "ignition_time": "2017-07-23 00:10:21"
+    },
+    {
+        "folder": "20180504_FIRE_smer-tcs10-mobo-c",
+        "ignition_time": "2018-05-05 00:09:59"
+    },
+    {
+        "folder": "20180504_FIRE_smer-tcs8-mobo-c",
+        "ignition_time": "2018-05-04 23:41:55"
+    },
+    {
+        "folder": "20180603_FIRE_sm-w-mobo-c",
+        "ignition_time": "2018-06-04 01:10:33"
+    },
+    {
+        "folder": "20180726_FIRE_so-w-mobo-c",
+        "ignition_time": "2018-07-26 18:43:23"
+    },
+    {
+        "folder": "20180806_FIRE_mg-s-mobo-c",
+        "ignition_time": "2018-08-06 19:27:38"
+    },
+    {
+        "folder": "20180809_FIRE_mg-w-mobo-c",
+        "ignition_time": "2018-08-09 22:11:40"
+    },
+    {
+        "folder": "20190529_94Fire_lp-s-mobo-c",
+        "ignition_time": "2019-05-30 00:04:05"
+    },
+    {
+        "folder": "20190610_FIRE_bh-w-mobo-c",
+        "ignition_time": "2019-06-10 22:25:16"
+    },
+    {
+        "folder": "20190716_FIRE_bl-s-mobo-c",
+        "ignition_time": "2019-07-16 21:45:53"
+    },
+    {
+        "folder": "20190924_FIRE_bl-s-mobo-c",
+        "ignition_time": "2019-09-25 00:01:54"
+    },
+    {
+        "folder": "20190924_FIRE_sm-n-mobo-c",
+        "ignition_time": "2019-09-24 23:58:28"
+    },
+    {
+        "folder": "20190924_FIRE_wc-s-mobo-c",
+        "ignition_time": "2019-09-25 00:07:22"
+    },
+    {
+        "folder": "20200601_WILDLAND-DRILLS_om-e-mobo-c",
+        "ignition_time": "2020-06-01 22:54:37"
+    },
+    {
+        "folder": "20200611_skyline_lp-n-mobo-c",
+        "ignition_time": "2020-06-11 20:38:01"
+    },
+    {
+        "folder": "20200705_FIRE_bm-w-mobo-c",
+        "ignition_time": "2020-07-05 23:08:39"
+    },
+    {
+        "folder": "20200727_Border11Fire_om-e-mobo-c_ERROR_NIGHT",
+        "ignition_time": "05:25"
+    },
+    {
+        "folder": "20200806_SpringsFire_lp-w-mobo-c",
+        "ignition_time": "2020-08-07 03:34:09"
+    },
+    {
+        "folder": "20200822_BrattonFire_lp-e-mobo-c",
+        "ignition_time": "2020-08-22 21:56:03"
+    },
+    {
+        "folder": "20200829_inside-Mexico_mlo-s-mobo-c",
+        "ignition_time": "2020-08-29 19:55:23"
+    },
+    {
+        "folder": "20200905_ValleyFire_lp-n-mobo-c",
+        "ignition_time": "2020-09-05 23:27:01"
+    },
+    {
+        "folder": "20200911_FIRE_mlo-s-mobo-c",
+        "ignition_time": "2020-09-11 21:51:23"
+    },
+    {
+        "folder": "20200930_inMexico_lp-s-mobo-c",
+        "ignition_time": "2020-09-30 21:30:05"
+    },
+    {
+        "folder": "20201127_Hawkfire_pi-w-mobo-c",
+        "ignition_time": "2020-11-27 21:52:09"
+    },
+    {
+        "folder": "20201208_FIRE_om-s-mobo-c",
+        "ignition_time": "2020-12-08 22:28:39"
+    },
+    {
+        "folder": "20210115_Bonitafire_tp-w-mobo-c_ERROR_NIGHT",
+        "ignition_time": "10:07"
+    },
+    {
+        "folder": "ADF_1320",
+        "ignition_time": "2023-05-23 17:18:31"
+    },
+    {
+        "folder": "AWF_axis-winters1",
+        "ignition_time": "2023-06-01 10:38:50"
+    },
+    {
+        "folder": "awf_nvseismolab_baldcaX-0119",
+        "ignition_time": "2017-07-08 16:39:44"
+    },
+    {
+        "folder": "awf_nvseismolab_baldcaX00132",
+        "ignition_time": "2018-06-30 13:28:42"
+    },
+    {
+        "folder": "awf_nvseismolab_geyserpeakX-0098",
+        "ignition_time": "2019-06-11 14:40:30"
+    },
+    {
+        "folder": "awf_nvseismolab_heavenlyX-0140_ERROR_BAD_QUALITY",
+        "ignition_time": "2015-07-30 11:45:02"
+    },
+    {
+        "folder": "awf_nvseismolab_lincolnX-0059",
+        "ignition_time": "2017-07-07 15:18:14"
+    },
+    {
+        "folder": "awf_nvseismolab_loop1X-0062",
+        "ignition_time": "2019-06-09 12:23:57"
+    },
+    {
+        "folder": "awf_nvseismolab_mcclellandX-0173",
+        "ignition_time": "2017-06-06 15:00:00"
+    },
+    {
+        "folder": "awf_nvseismolab_noaaX-0180",
+        "ignition_time": "2016-08-14 13:00:23"
+    },
+    {
+        "folder": "awf_nvseismolab_peavineX00056",
+        "ignition_time": "2016-06-21 19:48:52"
+    },
+    {
+        "folder": "awf_nvseismolab_virginiaX00080",
+        "ignition_time": "2016-07-05 17:21:08"
+    },
+    {
+        "folder": "awf_nvseismolab_virginiaX00178",
+        "ignition_time": "2017-07-04 18:00:23"
+    },
+    {
+        "folder": "pyronear_brison_4",
+        "ignition_time": "2023-07-24 04:04:06"
+    },
+    {
+        "folder": "pyronear_cabanelle_2",
+        "ignition_time": "2023-10-22 08:45:38"
+    },
+    {
+        "folder": "pyronear_ferion_4",
+        "ignition_time": "2023-10-23 08:50:05"
+    },
+    {
+        "folder": "pyronear_st_peray_1",
+        "ignition_time": "2023-04-26 16:43:56"
+    },
+    {
+        "folder": "2025-01-28T11-28-50_camera:_gupo-0347",
+        "ignition_time": "2025-01-28 11:28:50"
+    },
+    {
+        "folder": "2025-01-30T00-05-39_camera:_gupo-0347",
+        "ignition_time": "2025-01-30 00:05:39"
+    },
+    {
+        "folder": "2025-01-30T01-12-41_camera:_gupo-0347",
+        "ignition_time": "2025-01-30 01:12:41"
+    },
+    {
+        "folder": "2025-01-30T20-14-15_camera:_gupo-0347",
+        "ignition_time": "2025-01-30 20:14:15"
+    },
+    {
+        "folder": "2025-01-30T20-46-03_camera:_gupo-0347",
+        "ignition_time": "2025-01-30 20:46:03"
+    },
+    {
+        "folder": "2025-02-18T02-37_camera:_gupo-0347",
+        "ignition_time": "2025-02-18 02:44:00"
+    },
+    {
+        "folder": "2025-02-03T20-38-25_camera:_gupo-0347",
+        "ignition_time": "2025-02-03 20:38:43"
+    },
+    {
+        "folder": "2025-04-02T13_50_47_camera:_mostazalo1-1",
+        "ignition_time": "2025-04-02 13:50:47"
+    },
+    {
+        "folder": "2025-04-07T12_35_13_camera:_mostazalo1-90",
+        "ignition_time": "2025-04-07 12:35:14"
+    },
+    {
+        "folder": "2025-04-11T18_59_20_camera:_mostazalo1-1",
+        "ignition_time": "2025-04-11 18:59:20"
+    },
+    {
+        "folder": "2024-01-04T08-34-18_cabanelle-125",
+        "ignition_time": "2024-01-04 08:34:18"
+    },
+    {
+        "folder": "2024-02-16T12-11-03_cabanelle-125",
+        "ignition_time": "2024-02-16 12:11:03"
+    },
+    {
+        "folder": "2024-02-20T09-20-52_cabanelle-125",
+        "ignition_time": "2024-02-20 09:20:52"
+    },
+    {
+        "folder": "2024-02-24T08-30-54_cabanelle-125",
+        "ignition_time": "2024-02-24 08:30:54"
+    },
+    {
+        "folder": "2024-02-27T10-33-19_cabanelle-125",
+        "ignition_time": "2024-02-27 10:33:21"
+    },
+    {
+        "folder": "2024-02-27T11-07-22_cabanelle-125",
+        "ignition_time": "2024-02-27 11:07:24"
+    },
+    {
+        "folder": "2024-02-27T14-33-57_cabanelle-125",
+        "ignition_time": "2024-02-27 14:34:00"
+    },
+    {
+        "folder": "2024-02-28T10-32-52_cabanelle-125",
+        "ignition_time": "2024-02-28 10:32:52"
+    },
+    {
+        "folder": "2024-04-03T09-01-27_cabanelle-125",
+        "ignition_time": "2024-04-03 09:02:15"
+    },
+    {
+        "folder": "2024-04-03T09-38-29_cabanelle-125",
+        "ignition_time": "2024-04-03 09:38:42"
+    },
+    {
+        "folder": "2024-04-03T10-16-30_cabanelle-125",
+        "ignition_time": "2024-04-03 10:17:01"
+    },
+    {
+        "folder": "2024-04-07T09-53-46_cabanelle-125",
+        "ignition_time": "2024-04-07 09:53:46"
+    },
+    {
+        "folder": "2024-04-10T08-18-37_cabanelle-125",
+        "ignition_time": "2024-04-10 08:18:37"
+    },
+    {
+        "folder": "2024-06-01T08-30-30_cabanelle-125",
+        "ignition_time": "2024-06-01 08:30:30"
+    },
+    {
+        "folder": "2024-06-14T07-20-13_cabanelle-125",
+        "ignition_time": "2024-06-14 07:20:13"
+    },
+    {
+        "folder": "cabanelle-244_2024-01-01T11-07-26",
+        "ignition_time": "2024-01-01 11:07:26"
+    },
+    {
+        "folder": "cabanelle-244_2024-01-04T14-31-58",
+        "ignition_time": "2024-01-04 14:31:58"
+    },
+    {
+        "folder": "cabanelle-244_2024-01-08T12-02-08",
+        "ignition_time": "2024-01-08 12:02:08"
+    },
+    {
+        "folder": "cabanelle-244_2024-02-23T10-22-27",
+        "ignition_time": "2024-02-23 10:22:27"
+    },
+    {
+        "folder": "cabanelle-244_2024-02-27T13-07-58",
+        "ignition_time": "2024-02-27 13:07:58"
+    },
+    {
+        "folder": "cabanelle-244_2024-04-07T09-28-19",
+        "ignition_time": "2024-04-07 09:28:19"
+    },
+    {
+        "folder": "cabanelle-327_2024-01-01T15-35-07",
+        "ignition_time": "2024-01-01 15:36:07"
+    },
+    {
+        "folder": "cabanelle-327_2024-01-08T07-43-15",
+        "ignition_time": "2024-01-08 07:43:15"
+    },
+    {
+        "folder": "cabanelle-327_2024-02-26T14-48-09",
+        "ignition_time": "2024-02-26 14:48:09"
+    },
+    {
+        "folder": "cabanelle-327_2024-02-27T07-43-20",
+        "ignition_time": "2024-02-27 07:43:20"
+    },
+    {
+        "folder": "cabanelle-327_2024-02-27T08-20-51",
+        "ignition_time": "2024-02-27 08:20:51"
+    },
+    {
+        "folder": "cabanelle-327_2024-02-27T08-49-52",
+        "ignition_time": "2024-02-27 08:49:52"
+    },
+    {
+        "folder": "cabanelle-327_2024-02-27T09-08-53",
+        "ignition_time": "2024-02-27 09:08:53"
+    },
+    {
+        "folder": "cabanelle-327_2024-02-27T11-08-00",
+        "ignition_time": "2024-02-27 11:08:00"
+    },
+    {
+        "folder": "cabanelle-327_2024-06-02T17-22-29",
+        "ignition_time": "2024-06-02 17:22:29"
+    },
+    {
+        "folder": "cabanelle-327_2024-08-20T19-03-45",
+        "ignition_time": "2024-08-20 19:03:47"
+    }
+]
