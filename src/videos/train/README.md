@@ -13,7 +13,7 @@ A concise script to train a temporal fire detection model using PyTorch Lightnin
 ## Quick start
 
 ```bash
-python fire_sequence_training.py \
+python train.py \
   --data_dir /path/to/data \
   --batch_size 16 \
   --img_size 112 \
