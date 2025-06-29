@@ -11,4 +11,4 @@ Each folder has its own `README.md` with detailed usage instructions.
 
 ## Dataset
 
-The smoke dataset used in the paper is available from [Google Drive](https://drive.google.com/drive/folders/1OiK_2iPGESRzLatNYQZFbrDatu0hZ4FE?usp=drive_link).
+The smoke dataset used in the paper is available from [Google Drive](https://drive.google.com/drive/folders/1-6NR3M9qBi7FTpEt0rhRQeEWD_33mBGH?usp=sharing).
