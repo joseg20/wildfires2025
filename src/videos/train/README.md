@@ -1,6 +1,6 @@
-# Fire Sequence Training Script
+# Training Utilities for Videos
 
-A concise script to train a temporal fire detection model using PyTorch Lightning.
+A script to train a temporal fire detection model using PyTorch Lightning.
 
 ## What it does
 
